@@ -1,16 +1,11 @@
+===GitHub===
 185.199.109.133 objects.githubusercontent.com
 185.199.109.133 raw.githubusercontent.com
 185.199.109.133 release-assets.githubusercontent.com
 185.199.108.133 private-user-images.githubusercontent.com
 185.199.108.133 gist.githubusercontent.com
 185.199.108.133 avatars.githubusercontent.com
-
-18.65.39.105 tr.rbxcdn.com
-3.33.235.112 tr.rbxcdn.com
-3.33.235.79  tr.rbxcdn.com
-13.33.235.74 tr.rbxcdn.com
-
-
+===Telegram===
 149.154.167.220 my.telegram.org
 149.154.167.220 desktop.telegram.org
 149.154.167.220 macos.telegram.org
@@ -47,7 +42,7 @@
 149.154.167.220 zws2-1.web.telegram.org
 149.154.167.220 zws2.web.telegram.org
 149.154.167.220 zws4-1.web.telegram.org
-
+===Discord===
 162.159.138.232 discord.com
 162.159.137.232 discord.com
 162.159.128.233 discord.com
@@ -56,4 +51,13 @@
 162.159.137.232 updates.discord.com
 162.159.128.233 updates.discord.com
 162.159.135.232 updates.discord.com
-
+===Roblox Fix===
+18.65.39.105 tr.rbxcdn.com
+3.33.235.112 tr.rbxcdn.com
+3.33.235.79  tr.rbxcdn.com
+13.33.235.74 tr.rbxcdn.com
+128.116.123.3  chat.roblox.com
+===API HuggingFace===
+34.165.122.120  api-inference.huggingface.co
+===Проверка подписки Telegram===
+188.114.96.3 api.flyerhubs.com
